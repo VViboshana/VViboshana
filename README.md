@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vihaga viboshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vihaga viboshana" height="30" width="40" /></a>
-<a href="https://fb.com/vihaga viboshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vihaga viboshana" height="30" width="40" /></a>
-<a href="https://instagram.com/vihaga viboshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vihaga viboshana" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/vihaga-viboshana-24b6262b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vihaga viboshana" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1Aro48gaJt/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vihaga viboshana" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vihagaviboshana?igsh=MTNveTYwOXZ4bzNrMw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vihaga viboshana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
